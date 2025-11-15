@@ -1,0 +1,8 @@
+{
+    "pylint_score": 7.85,
+    "flake8_issues": 134,
+    "bandit_vulnerabilities": 3,
+    "coverage": "62%",
+    "duplication": "7%",
+    "cyclomatic_complexity_avg": 9.4
+}
