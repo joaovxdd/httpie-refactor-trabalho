@@ -1,1 +1,0 @@
-Relatório final placeholder.
